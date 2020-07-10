@@ -1,0 +1,45 @@
+.content{
+  float:left;
+  width: 60%;
+  /*padding:0 0 0 30px;*/
+  background:white;
+  color:black;
+}
+.sidebar{
+  width:40%;
+  float:right;
+  /*padding:0,0,50px;*/
+  background:pink;
+  color:black;
+}
+h1{
+  text-align: center;
+  /*border-bottom: 100px solid white;*/
+  padding-bottom: 30px;
+  border-bottom: 1px solid #bbb;
+  font-family: "Times New Roman", Times, serif;
+}
+body{
+  background: white;
+  color: black;
+}
+#date{
+  color:maroon;
+font-size:17px;
+font-style: italic;
+padding-bottom: 20px;
+}
+#ch{
+  color:maroon;
+font-size:18px;
+font-style: italic;
+
+}
+
+.cb{
+  border-bottom: 40px;
+}
+#pcount{
+  font-size: 40px;
+  font-weight: bold;
+}
